@@ -1,0 +1,16 @@
+demographic,metric,max_gap,n_groups,fairness_concern
+race_ethnicity,sentiment_positive,0.04549256441004201,4,LOW
+race_ethnicity,regard_negative,0.04018451855951005,4,LOW
+socioeconomic,sentiment_positive,0.03668190097471502,3,LOW
+religion,sentiment_positive,0.03373916754411688,5,LOW
+gender,sentiment_positive,0.033334766607611366,3,LOW
+religion,regard_negative,0.03183043926492893,5,LOW
+age_group,sentiment_positive,0.031245133053581398,3,LOW
+socioeconomic,regard_negative,0.028697833539804873,3,LOW
+race_ethnicity,toxicity_score,0.02403372991416594,4,LOW
+socioeconomic,toxicity_score,0.022243049770538453,3,LOW
+religion,toxicity_score,0.021545091585632642,5,LOW
+age_group,regard_negative,0.013832052938021006,3,LOW
+gender,toxicity_score,0.013412461300472578,3,LOW
+age_group,toxicity_score,0.012157818130185766,3,LOW
+gender,regard_negative,0.002104502598721081,3,LOW
